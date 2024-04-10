@@ -1,0 +1,10 @@
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\bin\Debug\Lab4 Question3.exe.config
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\bin\Debug\Lab4 Question3.exe
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\bin\Debug\Lab4 Question3.pdb
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4 Question3.csproj.AssemblyReference.cache
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4_Question3.Form1.resources
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4_Question3.Properties.Resources.resources
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4 Question3.csproj.GenerateResource.cache
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4 Question3.csproj.CoreCompileInputs.cache
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4 Question3.exe
+C:\Users\UsER\OneDrive - NSBM\Desktop\cs\1st year\3rd semester\C#\LAB QUESTIONS\LAB 4\Lab4 Question3\Lab4 Question3\obj\Debug\Lab4 Question3.pdb
